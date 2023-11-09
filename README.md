@@ -1,6 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 <h1 align="center">Hi 👋, I'm Akshay Pethe</h1>
 <h3 align="center">Demystifying Data Science: A Glimpse into My Projects</h3>
 
+<img align="right" alt="Coding" width="400" src="https://connectjaya.com/wp-content/uploads/2022/01/10a01f708bb7f8c50362c7e59f39d22d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypethe&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypethe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/datalea77110" target="blank"><img src="https://img.shields.io/twitter/follow/datalea77110?logo=twitter&style=for-the-badge" alt="datalea77110" /></a> </p>
