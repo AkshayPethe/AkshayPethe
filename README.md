@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Generative AI and NLP Transfer Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkshayPethe?tab=repositories&q=&type=&language=&sort=](https://github.com/AkshayPethe?tab=repositories&q=&type=&language=&sort=)
+- 👨‍💻 All of my projects are available at [Open Source Work](https://github.com/AkshayPethe?tab=repositories&q=&type=&language=&sort=)
 
 - 💬 Ask me about **Python,SQL,R**
 
 - 📫 How to reach me **akshaypethe9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1j3jJe-PIAohZLgGWv-2TLY91ZFBd88cf?usp=sharing](https://drive.google.com/drive/folders/1j3jJe-PIAohZLgGWv-2TLY91ZFBd88cf?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1j3jJe-PIAohZLgGWv-2TLY91ZFBd88cf?usp=sharing)
 
 - ⚡ Fun fact **I read a Lot of Books on Various Topics**
 
