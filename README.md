@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/datalea77110" target="blank"><img src="https://img.shields.io/twitter/follow/datalea77110?logo=twitter&style=for-the-badge" alt="datalea77110" /></a> </p>
 
-- 🔭 I’m currently working on [RAG for PDF with Langchain](https://github.com/AkshayPethe/RAG_PDF_with_LangChain)
+- 🔭 I’m currently working on [RAG for PDF and Websites with Langchain](https://github.com/AkshayPethe/Chat_with_PDF_-_Wesbite)
 
 - 🌱 I’m currently learning **Generative AI and NLP Transfer Learning**
 
